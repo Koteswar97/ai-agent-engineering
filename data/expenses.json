@@ -1,14 +1,90 @@
 [
     {
-        "amount": 50.0,
-        "category": "Groceries",
-        "description": "Weekly grocery shopping",
-        "date": "2026-11-02"
+        "category": "Movie",
+        "description": "Updated this with new Movie",
+        "amount": 1500.0,
+        "date": "2026-11-05T07:35:38.414000Z",
+        "priority": "medium",
+        "id": 1
     },
     {
-        "amount": 20.0,
-        "category": "Transport",
-        "description": "Bus fare",
-        "date": "2026-11-02"
+        "category": "Food",
+        "description": "eatat the hotel Shiridi Sai tiffens",
+        "amount": 200.0,
+        "date": "2026-11-05T17:08:35.961000Z",
+        "priority": "medium",
+        "id": 2
+    },
+    {
+        "category": "Food",
+        "description": "eatat the hotel Shiridi Sai tiffens",
+        "amount": 200.0,
+        "date": "2026-11-05T17:08:35.961000Z",
+        "priority": "medium",
+        "id": 3
+    },
+    {
+        "category": "Food",
+        "description": "eatat the hotel Shiridi Sai tiffens",
+        "amount": 200.0,
+        "date": "2026-11-05T17:08:35.961000Z",
+        "priority": "medium",
+        "id": 4
+    },
+    {
+        "category": "Food",
+        "description": "eatat the hotel Shiridi Sai tiffens",
+        "amount": 200.0,
+        "date": "2026-11-05T17:08:35.961000Z",
+        "priority": "medium",
+        "id": 5
+    },
+    {
+        "category": "Food",
+        "description": "eatat the hotel Shiridi Sai tiffens",
+        "amount": 200.0,
+        "date": "2026-11-05T17:08:35.961000Z",
+        "priority": "medium",
+        "id": 6
+    },
+    {
+        "category": "Food",
+        "description": "eatat the hotel Shiridi Sai tiffens",
+        "amount": 200.0,
+        "date": "2026-11-05T17:08:35.961000Z",
+        "priority": "medium",
+        "id": 7
+    },
+    {
+        "category": "Food",
+        "description": "eatat the hotel Shiridi Sai tiffens",
+        "amount": 200.0,
+        "date": "2026-11-05T17:08:35.961000Z",
+        "priority": "medium",
+        "id": 8
+    },
+    {
+        "category": "Food",
+        "description": "eatat the hotel Shiridi Sai tiffens golden temple",
+        "amount": 2000.0,
+        "date": "2026-11-05T17:08:35.961000Z",
+        "priority": "medium",
+        "id": 9
+    },
+    {
+        "category": "Movie",
+        "description": "New movie release in Nov",
+        "amount": 500.0,
+        "date": "2026-11-05T17:36:45.548000Z",
+        "priority": "medium",
+        "id": 10
+    },
+    {
+        "category": "Movie",
+        "description": "New movie release in Nov 123",
+        "amount": 1500.0,
+        "date": "2026-11-05T17:36:45.548000Z",
+        "priority": "medium",
+        "id": 11
     }
 ]
